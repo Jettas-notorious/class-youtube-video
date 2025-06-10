@@ -1,0 +1,1 @@
+This proram is a class program that checks ecentially the users video status.What the user does is enter the video views, likes,who uploaded it and name of the video.You have to implement a function that checks if the video is either trending or regular
